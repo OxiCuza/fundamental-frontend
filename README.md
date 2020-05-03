@@ -1,1 +1,1 @@
-Fundamental Front-End WEB
+Learning Fundamental Front-End Web Development (Course in Dicoding Academy https://www.dicoding.com)
